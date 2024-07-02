@@ -35,4 +35,6 @@ skype: live:.cid.c97787786decddb9
   <img alt="HTML5" src="https://img.shields.io/badge/html-purple?style=flat-square&logo=html5&logoColor=blue&labelColor=red" />
   <img alt="CSS3" src="https://img.shields.io/badge/css-skyblue?style=flat-square&logo=css3&logoColor=yellow&labelColor=blue" />
   <img alt="Tailwind" src="https://img.shields.io/badge/tailwind-pink?style=flat-square&logo=tailwindcss&logoColor=yellow&labelColor=blue" />
+  <img alt="Python" src="https://img.shields.io/badge/tailwind-pink?style=flat-square&logo=tailwindcss&logoColor=yellow&labelColor=blue" />
+  <img alt="Django" src="https://img.shields.io/badge/djando-red?style=flat-square&logo=django&logoColor=red&labelColor=blue" />
 </p>
